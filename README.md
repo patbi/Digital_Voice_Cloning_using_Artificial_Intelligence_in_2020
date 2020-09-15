@@ -44,9 +44,15 @@
 [Realistic Fictitious](http://resemble.ai/)
 
 
-### 6. Animated Talking Characters: Demonstration — `#` 👇
+### 7. Animated Talking Characters: Demonstration — `#` 👇
 
-[Animated Talking]()
+[Animated Talking](https://ttsdemo.com/)
+
+
+
+### 8. Bonus Lesson — `#` 👇
+
+
 
 
 
