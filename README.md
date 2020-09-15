@@ -17,8 +17,18 @@
 
 
 
-### 1. Introduction to the Voice-Cloning course — `#`
+### 1. Introduction to the Voice-Cloning course — `#` 👇
 
+[Introduction](https://www.descript.com/lyrebird)
+
+
+
+### 2. Voice-Cloning Samples Generated with Lyrebird — `#` 👇
+
+[Voice-Cloning Samples](https://www.descript.com)
+
+
+### 3. VoiceCloning Tutorial with Lyrebird: Complete Walkthrough — `#` 👇
 
 
 
