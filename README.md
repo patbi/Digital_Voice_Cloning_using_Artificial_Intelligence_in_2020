@@ -30,6 +30,25 @@
 
 ### 3. VoiceCloning Tutorial with Lyrebird: Complete Walkthrough — `#` 👇
 
+[Voice-Cloning Samples](https://www.descript.com)
+
+
+### 4-5. An alternate voice-cloning tool similar to Lyrebird: Part 1 — `#` 👇
+
+1 - [An alternate voice-cloning tool](https://deepsync.co/)
+2 - [An alternate voice-cloning tool](https://www.ispeech.org/voice-cloning)
+
+
+### 6. Realistic Fictitious Voice Cloning Tool — `#` 👇
+
+[Realistic Fictitious](http://resemble.ai/)
+
+
+### 6. Animated Talking Characters: Demonstration — `#` 👇
+
+[Animated Talking]()
+
+
 
 
 
